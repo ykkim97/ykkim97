@@ -16,7 +16,8 @@
 <p align="center">97ykkim@naver.com</p>&nbsp
 
 <h3 align=“center”><b>👇Tech Blog👇</b></h3>
-<p align="center"><img src="https://ykkim97.github.io/"/></a> &nbsp</p>
+<p align="center"><a href="https://ykkim97.github.io/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a></p>&nbsp
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97)](https://github.com/ykkim97/github-readme-stats)
 
 

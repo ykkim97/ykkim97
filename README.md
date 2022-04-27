@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
-## Hi~ I'm YoungGwon!
-
+<h3 align="center"><b>Hi! I'm YoungGwon!😄</b></h3>
+&nbsp
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
@@ -12,5 +12,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 
+<h3 align=“center”><b>✉️ Email  ✉️</b></h3>
+<p align="center">97ykkim@naver.com</p>
+
+<h3 align=“center”><b>👇Tech Blog/b👇></h3>
+<p align="center"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/></a> &nbsp</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97)](https://github.com/ykkim97/github-readme-stats)
+
 

@@ -15,7 +15,7 @@
 <h3 align=“center”><b>✉️ Email  ✉️</b></h3>
 <p align="center">97ykkim@naver.com</p>
 
-<h3 align=“center”><b>👇Tech Blog/b👇></h3>
+<h3 align=“center”><b>👇Tech Blog👇</b></h3>
 <p align="center"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/></a> &nbsp</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97)](https://github.com/ykkim97/github-readme-stats)
 

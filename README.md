@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 
   <h3 align=“center”><b>✉️ Email ✉️</b></h3>
-  <p align="center">97ykkim@naver.com</p>&nbsp
+  <p align="center">97ykkim@naver.com</p>
   <p align="center">97ykkim@gmail.com</p>&nbsp
   
   <h3 align=“center”><b>👇Tech Blog👇</b></h3>

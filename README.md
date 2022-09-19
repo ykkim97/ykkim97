@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
 <h3 align="center"><b>Hi! I'm YoungGwon!😄</b></h3>
 &nbsp
 
@@ -22,7 +22,6 @@
   <h3 align=“center”><b>👇Tech Blog👇</b></h3>
   <p align="center"><a href="https://ykkim97.github.io/"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/></a></p>&nbsp
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97)](https://github.com/ykkim97/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97&show_icons=true&theme=radical)](https://github.com/ykkim97/github-readme-stats)
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=footer)

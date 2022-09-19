@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
 <h3 align="center"><b>Hi! I'm YoungGwon!😄</b></h3>
 &nbsp
 
@@ -25,4 +25,4 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97)](https://github.com/ykkim97/github-readme-stats)
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=green&height=300&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=footer)

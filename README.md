@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
-<h3 align="center"><b>Hi! I'm YoungGwon!😄</b></h3>
+<h3 align="center"><b>Hi! I'm YoungGwon, front-end developer.😄</b></h3>
 &nbsp
 
 <div align="center">

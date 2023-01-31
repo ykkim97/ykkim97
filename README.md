@@ -15,7 +15,6 @@
 
   <h3 align=“center”><b>✉️ Email ✉️</b></h3>
   <p align="center">97ykkim@naver.com</p>
-  <p align="center">97ykkim@gmail.com</p>&nbsp
   
   <h3 align=“center”><b>👇Tech Blog👇</b></h3>
   <p align="center"><a href="https://ykkim97.github.io/"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/></a></p>&nbsp

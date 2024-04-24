@@ -1,24 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
-<h3 align="center"><b>Hi! I'm YoungGwon, Web front-end developer.😄</b></h3>
-&nbsp
+안녕하세요. 웹 개발자 김영권입니다.
 
-<div align="center">
-  <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-  <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+## History
+2023.2  ~  2024.4    (주)좋은정보기술에서 웹 풀스택 개발자로 근무 (약 1년 2개월)
+2016.2  ~  2022.2    경운대학교 항공소프트웨어공학과 졸업     
 
-  <h3 align=“center”><b>✉️ Email ✉️</b></h3>
-  <p align="center">97ykkim@naver.com</p>
-  
-  <h3 align=“center”><b>👇Tech Blog👇(구)</b></h3>
-  <p align="center"><a href="https://ykkim97.github.io/"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/></a></p>&nbsp
-  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykkim97&show_icons=true)](https://github.com/ykkim97/github-readme-stats)
-</div>
+## Tech Stack
+#### 프론트엔드(FrontEnd)
+1.  React.js, 
+2.  Next.js(학습 중)
+3.  CSS3
+4.  JavaScript, TypeScript
+5.  HTML5
+6.  Bootstrap, Material UI
+#### 백엔드(Backend)
+1.  Node.js, Express
+2.  Java
+3.  JSP (JavaServer Pages)
+4.  eGovFramework
+#### 데이터베이스(DB)
+1.  SQL 
+2.  MariaDB, Cubrid DB
+#### 기타
+1. Git, Gitlab, GitHub
+    
+##
+### Contact
+##### Email : 97ykkim@naver.com / 97ykkim@gmail.com
+##
 

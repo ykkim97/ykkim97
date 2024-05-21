@@ -7,11 +7,10 @@
 ## Tech Stack
 #### 프론트엔드(FrontEnd)
 1.  React.js, 
-2.  Next.js(학습 중)
-3.  CSS3
-4.  JavaScript, TypeScript
-5.  HTML5
-6.  Bootstrap, Material UI
+2.  CSS3
+3.  JavaScript, TypeScript
+4.  HTML5
+5.  Bootstrap, Material UI
 #### 백엔드(Backend)
 1.  Node.js, Express
 2.  Java

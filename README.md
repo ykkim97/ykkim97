@@ -22,7 +22,10 @@
 2.  MariaDB, Cubrid DB
 #### 기타
 1. Git, Gitlab, GitHub
-    
+
+#### 관심있고 학습 중인 기술
+NextJS, Spring Boot
+
 ##
 ### Contact
 ##### Email : 97ykkim@naver.com / 97ykkim@gmail.com
